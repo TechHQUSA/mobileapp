@@ -22,3 +22,6 @@ androidApp/src/main/assets/bundled-apps/
 iosApp/bundled-apps/*
 !iosApp/bundled-apps/.gitkeep
 .lock-waf_darwin_build
+
+# Claude Code: "don't ask again" approvals are saved here verbatim and can hold tokens
+**/.claude/settings.local.json
